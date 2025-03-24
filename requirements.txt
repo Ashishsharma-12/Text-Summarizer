@@ -1,0 +1,8 @@
+spacy>=3.5.0
+networkx>=3.0
+numpy>=1.22.0
+pypdf>=3.0.0
+python-docx>=0.8.11
+streamlit>=1.22.0
+# You'll also need to download the language model:
+# python -m spacy download en_core_web_sm 
